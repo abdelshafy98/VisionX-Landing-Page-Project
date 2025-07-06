@@ -21,21 +21,6 @@ A modern, responsive product landing page built for a fictional tech gadget: **V
 - Vanilla JavaScript (for interactivity and nav link behavior)
 - Fully responsive layout
 
-## 📁 Folder Structure
-VisionX-Landing-Page-Project/
-│
-├── index.html
-├── /css
-│ ├── main.css
-│ ├── header.css
-│ ├── sections.css
-│ └── footer.css
-├── /images
-│ └── [All project illustrations]
-├── /js
-│ └── app.js
-
-
 ## 💡 Features
 
 - 📱 Mobile-first responsive design
